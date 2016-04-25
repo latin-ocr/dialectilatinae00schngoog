@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dialectilatinae00schngoog_0010.png"; bbox 0 0 3202 5010; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 615 4346 1010 4376">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 615 4346 1010 4376">
+     <span class='ocr_line' id='line_1_1' title="bbox 615 4346 1010 4376; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 615 4346 719 4374; x_wconf 65' lang='lat' dir='ltr'>LIPSIAE:</span> <span class='ocrx_word' id='word_1_2' title='bbox 736 4347 804 4374; x_wconf 76' lang='lat' dir='ltr'>&#39;PYPIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 818 4349 839 4374; x_wconf 82' lang='lat' dir='ltr'>B.</span> <span class='ocrx_word' id='word_1_4' title='bbox 852 4347 873 4374; x_wconf 62' lang='lat' dir='ltr'>Gr</span> <span class='ocrx_word' id='word_1_5' title='bbox 883 4348 1010 4376; x_wconf 67' lang='lat' dir='ltr'>TEVBNERI.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1606 5010">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1606 5010">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1606 5010; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1606 5010; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
